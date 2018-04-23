@@ -1,0 +1,4 @@
+<?xml version="1.0" ?>
+<Application Title="DXExample" Logo="ExpressAppLogo">
+	<NavigationItems AllowSelectFirstItem="True" />
+</Application>
