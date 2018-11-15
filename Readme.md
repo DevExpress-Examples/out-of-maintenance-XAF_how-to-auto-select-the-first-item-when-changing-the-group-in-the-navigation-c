@@ -1,3 +1,12 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [WebSelectFirstNavigationItemController.cs](./CS/DXExample.Module.Web/WebSelectFirstNavigationItemController.cs) (VB: [WebSelectFirstNavigationItemController.vb](./VB/DXExample.Module.Web/WebSelectFirstNavigationItemController.vb))
+* [WinSelectFirstNavigationItemController.cs](./CS/DXExample.Module.Win/WinSelectFirstNavigationItemController.cs) (VB: [WinSelectFirstNavigationItemController.vb](./VB/DXExample.Module.Win/WinSelectFirstNavigationItemController.vb))
+* [BO.cs](./CS/DXExample.Module/BO.cs) (VB: [BO.vb](./VB/DXExample.Module/BO.vb))
+* [Model.DesignedDiffs.xafml](./CS/DXExample.Module/Model.DesignedDiffs.xafml) (VB: [Model.DesignedDiffs.xafml](./VB/DXExample.Module/Model.DesignedDiffs.xafml))
+* [SelectFirstNavigationItemControllerBase.cs](./CS/DXExample.Module/SelectFirstNavigationItemControllerBase.cs) (VB: [SelectFirstNavigationItemControllerBase.vb](./VB/DXExample.Module/SelectFirstNavigationItemControllerBase.vb))
+<!-- default file list end -->
 # How to auto-select the first item, when changing the group in the navigation control
 
 
